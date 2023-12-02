@@ -11,3 +11,7 @@ git submodule add https://github.com/basemind-ai/gateway-proto proto/gateway
 ```
 
 The above command will add the repository as a git submodule and clone its contents into the subfolder `proto/gateway`.
+
+## Pre-Commit
+
+This repository uses [pre-commit](https://pre-commit.com) for validation.
